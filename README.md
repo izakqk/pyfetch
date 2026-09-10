@@ -9,7 +9,7 @@ easy to hack on.
 ## Install (from source)
 
 ```bash
-git clone https://github.com/yourname/pyfetch
+git clone https://github.com/izakqk/pyfetch
 cd pyfetch
 pip install .
 ```
